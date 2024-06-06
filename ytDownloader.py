@@ -56,7 +56,7 @@ def check_pip():
     else:
         print("pip is installed.")
 
-CURRENT_VERSION = "1.0.9"
+CURRENT_VERSION = "1.1.0"
 
 analytics_file = "download_analytics.json"
 Preferences_file = "user_preferences.json"

@@ -220,6 +220,7 @@ def music_player_main(music_path):
                 pygame.mixer.quit()
             break
     clear_screen()
+    
 if __name__ == "__main__":
     music_path = "D:\Media\Music"
     initialize_music_player()

@@ -80,6 +80,9 @@ Welcome to our YouTube Downloader Script! This Python-based tool offers a versat
 - **Custom Metadata**: Customize the fetch_metadata function to fetch more detailed metadata from external APIs.
 - **Error Handling**: Check the log files for detailed error messages in case of download failures.
 
+## Activity
+![Alt](https://repobeats.axiom.co/api/embed/fa4299d8f09b05157c706a2c19ca705bf2740a88.svg "Repobeats analytics image")
+
 ## Contributing
 
 If you find this script useful, please consider starring the repository and contributing with your ideas and improvements. Your feedback and contributions are highly appreciated!

@@ -103,4 +103,6 @@ Happy Downloading! 🎉📥
 
 ***
 
+***Remember, with great power comes great responsibility. Use these spells wisely, and let the magic unfold!***
+
 *Note: This script is for educational purposes only. Please adhere to YouTube's terms of service when using this tool.*

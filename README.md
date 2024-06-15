@@ -97,6 +97,10 @@ If you find this script useful, please consider starring the repository and cont
 
 A big thank you to everyone who contributes to this project, and to all the users and developers who have made Python and its libraries such robust and versatile tools for the community.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ***
 
 Happy Downloading! 🎉📥

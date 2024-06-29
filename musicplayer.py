@@ -222,7 +222,7 @@ def music_player_main(music_path):
     clear_screen()
     
 if __name__ == "__main__":
-    music_path = r"D:\Media\Music"
+    music_path = "D:\\Media\\Music"
     initialize_music_player()
     music_player_main(music_path)
 

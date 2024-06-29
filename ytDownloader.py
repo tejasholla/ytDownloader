@@ -782,7 +782,7 @@ def main():
                 display_analytics()
             elif answers['choice'] == 'Music Player':
                 clear_screen()
-                music_path = "D:\Media\Music"  # Or dynamically determine this path
+                music_path = "D:\\Media\\Music"  # Or dynamically determine this path
                 initialize_music_player()
                 music_player_main(music_path)
                 clear_screen()

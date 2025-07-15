@@ -1,3 +1,5 @@
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/tejasholla/ytDownloader?utm_source=oss&utm_medium=github&utm_campaign=tejasholla%2FytDownloader&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 # YouTube Downloader Script
 
 Welcome to our YouTube Downloader Script! This Python-based tool offers a versatile and efficient way to download videos and playlists from YouTube. Whether you're looking for the highest quality video, or just the audio track, our script has got you covered. Read on to discover its key features, installation process, and how you can configure it for your own use.
